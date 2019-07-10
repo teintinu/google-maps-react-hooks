@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello Map renders 1`] = `
+<div>
+  Google Map Test
+  <Component
+    center={
+      Object {
+        "lat": 35.6432027,
+        "lng": 139.6729435,
+      }
+    }
+    zoom={10}
+  >
+    <Component
+      icon="https://a0.muscache.com/airbnb/static/select_pdp/home_icon-9999d1852c239e9a93c7d7975441c254.png"
+      key="0"
+      position={
+        Object {
+          "lat": 35.6432027,
+          "lng": 139.6729435,
+        }
+      }
+      title="marker id: 0"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="1"
+      position={
+        Object {
+          "lat": 35.6832027,
+          "lng": 139.7129435,
+        }
+      }
+      title="marker id: 1"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="2"
+      position={
+        Object {
+          "lat": 35.7232027,
+          "lng": 139.75294350000001,
+        }
+      }
+      title="marker id: 2"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="3"
+      position={
+        Object {
+          "lat": 35.7632027,
+          "lng": 139.7929435,
+        }
+      }
+      title="marker id: 3"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="4"
+      position={
+        Object {
+          "lat": 35.8032027,
+          "lng": 139.8329435,
+        }
+      }
+      title="marker id: 4"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="5"
+      position={
+        Object {
+          "lat": 35.843202700000006,
+          "lng": 139.8729435,
+        }
+      }
+      title="marker id: 5"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="6"
+      position={
+        Object {
+          "lat": 35.883202700000005,
+          "lng": 139.9129435,
+        }
+      }
+      title="marker id: 6"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="7"
+      position={
+        Object {
+          "lat": 35.923202700000004,
+          "lng": 139.9529435,
+        }
+      }
+      title="marker id: 7"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="8"
+      position={
+        Object {
+          "lat": 35.963202700000004,
+          "lng": 139.9929435,
+        }
+      }
+      title="marker id: 8"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="9"
+      position={
+        Object {
+          "lat": 36.0032027,
+          "lng": 140.03294350000002,
+        }
+      }
+      title="marker id: 9"
+    />
+    <TransitLayer
+      enabled={true}
+    />
+  </Component>
+</div>
+`;
+
+exports[`Hello Map renders 2`] = `
+<div>
+  Google Map Test
+  <Component
+    center={
+      Object {
+        "lat": 35.6432027,
+        "lng": 139.6729435,
+      }
+    }
+    zoom={10}
+  >
+    <Component
+      icon="https://a0.muscache.com/airbnb/static/select_pdp/home_icon-9999d1852c239e9a93c7d7975441c254.png"
+      key="0"
+      position={
+        Object {
+          "lat": 35.6432027,
+          "lng": 139.6729435,
+        }
+      }
+      title="marker id: 0"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="1"
+      position={
+        Object {
+          "lat": 35.6832027,
+          "lng": 139.7129435,
+        }
+      }
+      title="marker id: 1"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="2"
+      position={
+        Object {
+          "lat": 35.7232027,
+          "lng": 139.75294350000001,
+        }
+      }
+      title="marker id: 2"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="3"
+      position={
+        Object {
+          "lat": 35.7632027,
+          "lng": 139.7929435,
+        }
+      }
+      title="marker id: 3"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="4"
+      position={
+        Object {
+          "lat": 35.8032027,
+          "lng": 139.8329435,
+        }
+      }
+      title="marker id: 4"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="5"
+      position={
+        Object {
+          "lat": 35.843202700000006,
+          "lng": 139.8729435,
+        }
+      }
+      title="marker id: 5"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="6"
+      position={
+        Object {
+          "lat": 35.883202700000005,
+          "lng": 139.9129435,
+        }
+      }
+      title="marker id: 6"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="7"
+      position={
+        Object {
+          "lat": 35.923202700000004,
+          "lng": 139.9529435,
+        }
+      }
+      title="marker id: 7"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="8"
+      position={
+        Object {
+          "lat": 35.963202700000004,
+          "lng": 139.9929435,
+        }
+      }
+      title="marker id: 8"
+    />
+    <Component
+      icon="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi2.png"
+      key="9"
+      position={
+        Object {
+          "lat": 36.0032027,
+          "lng": 140.03294350000002,
+        }
+      }
+      title="marker id: 9"
+    />
+    <TransitLayer
+      enabled={true}
+    />
+  </Component>
+</div>
+`;
